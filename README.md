@@ -13,7 +13,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,,;+Here's+Divya+Patil;A+Full+stack+Web/App+dev;Currently+exploring+the+world+of+AI" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,,;+Here's+Durgeshwari+Patil;A+Full+stack+Web/App+dev;Currently+exploring+the+world+of+AI" />
 
          
 ### Glad to see you here! 🤩 &nbsp; 
@@ -21,21 +21,11 @@
 >I am looking for opportunities and collabaration in projects related to Web-Development/Cybersecurity. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and working on my Data Structures and Algorithms 🤓. Although A computer science engineer working with Devlopment tools and looking forward to Share and Gain knowledgeable stuff☘️.
 
 
-<h3>☘️ Currently working on<a href="https://github.com/divya-patil132/Permissy"> Permissy!!</a></h3>
-<h2 align="center">🛠 Tools & Technologies ⚡</h2>
- <p align="center">
-  <a href="https://github.com/divya-patil132">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,php,js,html,css,react,nodejs,express,mongodb,typescript,kotlin,next,angular,figma,linux" />
-  </a>
-</p>
 
 
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=divya-patil132&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-patil132&theme=dark&hide_border=true&layout=compact"></td>
-  </tr>
+  <t
 </table>
 
 <!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
