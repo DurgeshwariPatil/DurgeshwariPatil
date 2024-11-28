@@ -25,7 +25,7 @@
 <h2 align="center">🛠 Tools & Technologies ⚡</h2>
  <p align="center">
   <a href="https://github.com/divya-patil132">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,php,js,html,css,react,nodejs,express,mongodb,typescript,kotlin,next,angular,figma,linux" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,php,js,html,css,react,nodejs,figma,mysql,pandas,numpy" />
   </a>
 </p>
 
